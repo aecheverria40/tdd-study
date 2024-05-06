@@ -1,0 +1,26 @@
+{
+  "name": "tdd-study",
+  "version": "1.0.0",
+  "description": "project to study tdd",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aecheverria40/tdd-study.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "Abiel Villegas",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aecheverria40/tdd-study/issues"
+  },
+  "homepage": "https://github.com/aecheverria40/tdd-study#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
